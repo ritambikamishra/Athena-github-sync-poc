@@ -1,0 +1,1 @@
+plugins { id("brazil-setup") } rootProject.name = "Athena-github-sync-poc"

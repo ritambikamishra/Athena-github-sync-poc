@@ -1,0 +1,1 @@
+package.Athena-github-sync-poc = { interfaces = (1.0); build-system = brazil-gradle; build-tools = { 1.0 = { JDK17 = 1.0; BrazilGradle = 8.x; BrazilGradleJavaPresets = 8.x; }; }; dependencies = { 1.0 = { }; }; test-dependencies = { 1.0 = { JUnit5 = 5.x; }; }; targets = { Athena-github-sync-poc-1.0 = { type = javalibrary; }; }; };
