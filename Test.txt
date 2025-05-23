@@ -1,1 +1,10 @@
-Test file for pulling...
+Test file for pulling with conflicts.
+
+
+
+
+
+abcd
+
+
+
